@@ -1,0 +1,7 @@
+scp djia.csv jrhuml@longleaf.unc.edu:~/QFEresearch/
+
+scp research_project.m jrhuml@longleaf.unc.edu:~/QFEresearch/
+
+scp objfun.mlx jrhuml@longleaf.unc.edu:~/QFEresearch/
+
+scp kldiv.m jrhuml@longleaf.unc.edu:~/QFEresearch/
