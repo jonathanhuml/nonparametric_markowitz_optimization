@@ -1,5 +1,9 @@
-%note: you will need to run clusters.m and load kl.div 
-%and obj.mlx for this file to run
+%note: you will need to run clusters.m and load
+%obj.mlx for this file to run
+%kldiv.m has been giving some of our group errors
+%This file (kldiv.m) is NOT essential to running this script
+%kldiv.m is simply my source of encoding the Kullback
+%Liebler divergence
 
 %dow and constituents
 data = readtable("djia.csv");
